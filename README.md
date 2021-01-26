@@ -40,13 +40,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=lakinduakash&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=lakinduakash&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 *************
 
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakinduakash)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lakinduakash)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
