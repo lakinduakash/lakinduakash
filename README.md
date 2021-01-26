@@ -14,6 +14,8 @@
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 
+[![GitHub followers](https://img.shields.io/github/followers/lakinduakash?logo=GitHub&style=for-the-badge)][github]
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=lakinduakash)
 
