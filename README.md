@@ -1,6 +1,10 @@
 ### Hi there 👋, I'm Lakindu
 
 <br/>
+
+<a href="https://stackexchange.com/users/9414366/ultimatex?tab=accounts">
+  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
 <a href="https://twitter.com/lakinduakash">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
