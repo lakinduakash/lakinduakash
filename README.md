@@ -51,6 +51,8 @@ Here are some ideas to get you started:
 
 <br/>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=2pac)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Top Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lakinduakash&repo=linux-wifi-hotspot&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/lakinduakash/linux-wifi-hotspot)
