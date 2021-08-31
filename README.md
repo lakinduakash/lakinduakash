@@ -61,9 +61,3 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lakinduakash&repo=asus-screenpad-control&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/lakinduakash/asus-screenpad-control)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lakinduakash&repo=gravity&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/lakinduakash/gravity)
-
-
-### Spotify Playing 🎧
-<!-- [![Spotify](https://spotify-now-playing-dusky.vercel.app/api/spotify-playing)](https://open.spotify.com/user/c4gfqvi32p14b0v8svpmrpui2) -->
-
-[<img src="https://readme-spotify-status-lakinduakash.vercel.app/api/run-spotify-status" alt="Lakindu's Spotify" width="400" />](https://open.spotify.com/user/213b3zcinmx6t6cc6fezcf7sq)
